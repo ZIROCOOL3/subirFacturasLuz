@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubirFacturasLuz", "SubirFacturasLuz\SubirFacturasLuz.csproj", "{BDACA126-07C4-47B5-AB73-568AE312B110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDACA126-07C4-47B5-AB73-568AE312B110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDACA126-07C4-47B5-AB73-568AE312B110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDACA126-07C4-47B5-AB73-568AE312B110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDACA126-07C4-47B5-AB73-568AE312B110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08F59F25-640F-49C5-87EF-5D4173940104}
+	EndGlobalSection
+EndGlobal
